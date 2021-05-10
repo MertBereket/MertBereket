@@ -5,7 +5,7 @@ I'm Mert Bereket. I am a student of Software Engineering at Manisa Celal Bayar U
 
 
 **📫 Where to find me:**
-[![Linkedin Badge](https://img.shields.io/badge/-MertBereket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-mert-veli-bereket/)](https://www.linkedin.com/in/muhammed-mert-veli-bereket/) 
+[![Linkedin Badge](https://img.shields.io/badge/-MuhammedMertVeliBereket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-mert-veli-bereket/)](https://www.linkedin.com/in/muhammed-mert-veli-bereket/) 
 [![Gmail Badge](https://img.shields.io/badge/-mertbereket80@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mertbereket80@gmail.com.com)](mailto:mertbereket80@gmail.com.com)
 [![Twitter Badge](https://img.shields.io/badge/-MertBereket-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mert80bereket/)](https://twitter.com/mert80bereket)
 [![Instagram Badge](https://img.shields.io/badge/-MertBereket-orange?style=flat-square&logo=Instagram&logoColor=blue&link=https://www.instagram.com/mertbereket/)](https://www.instagram.com/mertbereket/)
