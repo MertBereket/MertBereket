@@ -11,7 +11,6 @@ I'm Mert Bereket. I am a student of Software Engineering at Manisa Celal Bayar U
 [![Instagram Badge](https://img.shields.io/badge/-MertBereket-orange?style=flat-square&logo=Instagram&logoColor=blue&link=https://www.instagram.com/mertbereket/)](https://www.instagram.com/mertbereket/)
 
 
-**💼 Currently working as:** Software Developer at ALKERA IT
 
 **💻 Technologies I have worked with until today:** 
 
